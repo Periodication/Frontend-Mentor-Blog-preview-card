@@ -161,3 +161,9 @@ body {
     width: 32px;
     aspect-ratio: 1;
 }
+
+.credits {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
